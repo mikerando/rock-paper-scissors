@@ -1,3 +1,3 @@
-# rock-paper-scissors
-Currently a console.log only run of 5 games.
-To be revisited later.
+#rock-paper-scissors v2
+Removed console.log "evaluations" and changed to HTML outputs
+Lots of code cleanup
